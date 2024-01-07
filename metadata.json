@@ -1,0 +1,6 @@
+{
+  "name": "BluetoothSwitch",
+  "description": "turns on and off the selected bluetooth connexion",
+  "uuid": "bluetoothswitch@seddik.com",
+  "shell-version": ["45"]
+}
